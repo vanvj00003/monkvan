@@ -2,7 +2,7 @@
 
 set -e
 
-REPO_DIR="/Users/vanvj/my-blog"
+REPO_DIR="/Users/vanvj/monkvan"
 COMMIT_MSG="${1:-deploy: $(date '+%Y-%m-%d %H:%M:%S')}"
 
 echo "=========================================="
@@ -26,6 +26,7 @@ cd public
 # Init git in public folder if needed
 if [ ! -d .git ]; then
     git init
+    git checkout -b gh-pages
     git remote add origin https://github.com/vanvj00002/monkvan.git
 fi
 

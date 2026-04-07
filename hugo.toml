@@ -9,12 +9,23 @@ enableEmoji = true
 enableRobotsTXT = true
 enableGitInfo = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   version = "0.3.X"
   since = 2025
   description = "老梵的个人随笔和思考"
-  [params.author]
-    name = "老梵"
+  
+  [params.header]
+    [params.header.title]
+      name = "老梵的空中小屋"
+
+[params.author]
+  name = "老梵"
+  description = "老梵（vanvj00002）是一名热衷技术与文化的个人随笔作者，擅长前端开发与内容创作。"
   
   [params.home]
     sort = "date"
