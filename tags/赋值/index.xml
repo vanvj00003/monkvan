@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>赋值 on monkvan</title><link>https://vanvj00002.github.io/monkvan/tags/%E8%B5%8B%E5%80%BC/</link><description>Recent content in 赋值 on monkvan</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 07 Mar 2026 11:38:00 +0800</lastBuildDate><atom:link href="https://vanvj00002.github.io/monkvan/tags/%E8%B5%8B%E5%80%BC/index.xml" rel="self" type="application/rss+xml"/><item><title>人生意义</title><link>https://vanvj00002.github.io/monkvan/posts/%E4%BA%BA%E7%94%9F%E6%84%8F%E4%B9%89/</link><pubDate>Sat, 07 Mar 2026 11:38:00 +0800</pubDate><guid>https://vanvj00002.github.io/monkvan/posts/%E4%BA%BA%E7%94%9F%E6%84%8F%E4%B9%89/</guid><description>&lt;h1 id="人生的意义程序员篇"&gt;人生的意义（程序员篇）
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;关键词&lt;/strong&gt;：无自性、赋值、new操作、继承、宇宙根函数、精神能量、纪念碑&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="前言"&gt;前言
+&lt;/h2&gt;&lt;p&gt;如果人生是一场编程，你会怎么写这段代码？&lt;/p&gt;
+&lt;p&gt;这个问题听起来有点奇怪，但仔细想想，我们每个人确实都在写一段叫做“人生”的程序。有的人写的是Hello World，简单跑完就结束；有的人写的是复杂的算法，层层嵌套，影响深远；有的人写的是死循环，困在自己的情绪里出不来；有的人写的是递归函数，一遍遍调用自己，却始终没有返回值。&lt;/p&gt;
+&lt;p&gt;那么，这段程序的意义是什么？是代码本身，还是运行结果？是编译器给的，还是程序员自己赋予的？&lt;/p&gt;
+&lt;p&gt;这篇文章，我想用程序员的视角，聊聊这个古老又新鲜的话题——人生的意义。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="一人生本身一段返回null的函数"&gt;一、人生本身：一段返回null的函数
+&lt;/h2&gt;&lt;p&gt;先说结论：&lt;strong&gt;就人生而言，本身是没有任何意义的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;听起来有点丧？别急，听我解释。&lt;/p&gt;
+&lt;p&gt;就像一段代码，如果你只是写了一个函数，但没有调用它，没有给它传参，没有让它和外界交互，那它就只是一段躺在文件里的文本。它有意义吗？有，作为文本它存在；但没有，因为它没有产生任何作用。&lt;/p&gt;
+&lt;p&gt;人生也是这样。单纯地“活着”，吃饭、睡觉、工作、死亡，这个过程本身就像一段没有返回值、没有副作用的函数——它运行了，结束了，仅此而已。&lt;/p&gt;
+&lt;p&gt;用程序员的术语说：&lt;strong&gt;人生的意义，初始值是null。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;null不是0，0还有数值，null是什么都没有。人生来的时候，意义这个变量是空的，等着被赋值。&lt;/p&gt;
+&lt;p&gt;这就是为什么有些人活得浑浑噩噩，因为他们从来没有给自己的生命赋值；有些人活得轰轰烈烈，因为他们赋了一个很大的值；还有些人活得拧巴，因为他们赋的值和自己的底层代码冲突了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="二被赋值的人生从null到有值"&gt;二、被赋值的人生：从null到有值
+&lt;/h2&gt;&lt;p&gt;那么，谁来给人生赋值？&lt;/p&gt;
+&lt;p&gt;答案是：&lt;strong&gt;自己、他人、时代、历史，共同参与赋值。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;你每做一个选择，就是在给自己的人生变量赋一次值。你今天决定早起读书，赋值了“勤奋”；你明天决定躺平摆烂，赋值了“懈怠”。这些赋值是即时的，也是累积的。&lt;/p&gt;
+&lt;p&gt;更重要的是，&lt;strong&gt;他人也在给你赋值&lt;/strong&gt;。你做了一件好事，别人说“这人善良”，这是赋值；你做了一件坏事，别人说“这人卑鄙”，这也是赋值。这些赋值会汇聚成一种东西——口碑、名声、评价，最终成为你在他人心中的“存在”。&lt;/p&gt;
+&lt;p&gt;岳飞的人生，被赋值了“精忠报国”“一身正气”“骁勇善战”“文武双全”。这些赋值不是岳飞自己写的，是后人加上去的。但他用一生的行动，提供了被这样赋值的“接口”。所以他虽然只活了39岁，但900年后的今天，我们提起岳飞，那些赋值还在生效。&lt;/p&gt;
+&lt;p&gt;秦桧的人生，被赋值了“不忠不义”“阴险狡诈”“卖国求荣”。站在他自己的角度，他可能有完全不同的解释——维护和谈、稳定局势、保全家族。他给自己赋值的是“务实”“理性”“为国谋和”。但历史的赋值权不在他一个人手里，后人给了另一个版本。&lt;/p&gt;
+&lt;p&gt;这说明什么？说明&lt;strong&gt;人生的意义不是单方面决定的，是一个多方参与、动态更新的过程&lt;/strong&gt;。你给自己赋值，别人给你赋值，时代给你赋值，历史给你赋值。最终那个值，是所有这些赋值的加权平均——或者说，是这些能量汇聚后的结果。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="三精神能量的物质化看不见的纪念碑"&gt;三、精神能量的物质化：看不见的“纪念碑”
+&lt;/h2&gt;&lt;p&gt;有意思的是，这些赋值并不是虚无缥缈的。&lt;/p&gt;
+&lt;p&gt;当一个人的人生被赋予某种意义，这种意义就会转化为一种&lt;strong&gt;精神能量&lt;/strong&gt;。当很多人的这种能量汇聚在一起，它会变得越来越强，甚至可能&lt;strong&gt;物质化&lt;/strong&gt;——不是变成金子银子，而是变成一种看得见摸得着的东西。&lt;/p&gt;
+&lt;p&gt;比如岳飞的“精忠报国”，最终物质化成什么？化成了杭州的岳王庙，化成了西湖边的岳飞墓，化成了“青山有幸埋忠骨，白铁无辜铸佞臣”的对联，化成了无数人前去瞻仰、跪拜、沉思的那个空间。&lt;/p&gt;
+&lt;p&gt;比如孔子的“有教无类”“因材施教”，物质化成什么？化成了遍布全球的孔子学院，化成了两千多年来无数学子诵读的《论语》，化成了“天不生仲尼，万古如长夜”的文化认同。&lt;/p&gt;
+&lt;p&gt;这就是我说的&lt;strong&gt;精神能量的物质化&lt;/strong&gt;——它会产生一座“纪念碑”。这座纪念碑可能是实体的建筑，可能是流传的文字，可能是口耳相传的故事，也可能只是人们心里那个共同的情感空间。但无论形式如何，它承载的精神力量会感染后来者，影响一代又一代人的人生。&lt;/p&gt;
+&lt;p&gt;而那些没有被赋值、或者赋值太弱的人生，就像没有留下任何痕迹的代码，运行完就删除了，连日志都没存。从宇宙的角度看，它们存在过，但相当于不存在。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="四宇宙的根函数人生的意义在于new"&gt;四、宇宙的根函数：人生的意义在于new
+&lt;/h2&gt;&lt;p&gt;说到这里，你可能要问：有没有一个更终极的赋值者？有没有一个代表宇宙整体的规则，来定义人生的意义？&lt;/p&gt;
+&lt;p&gt;答案是：有的。在宇宙这个超级操作系统里，有一个“根函数”。&lt;/p&gt;
+&lt;p&gt;这个根函数给所有人生设定的底层意义是——&lt;strong&gt;new&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;是的，就是编程里的那个&lt;code&gt;new&lt;/code&gt;操作。&lt;/p&gt;
+&lt;p&gt;为什么要new？因为在宇宙看来，最可怕的事情不是错误，不是bug，而是&lt;strong&gt;重复&lt;/strong&gt;。如果一个宇宙只会重复已有的东西，那它就是死宇宙，没有活力，没有进化，没有惊喜。&lt;/p&gt;
+&lt;p&gt;所以，根函数的逻辑是：&lt;strong&gt;每一次生命的诞生，都应该是一个new操作&lt;/strong&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;new，意味着在继承的基础上，创建新的实例&lt;/li&gt;
+&lt;li&gt;new，意味着可以添加新的方法和新的接口&lt;/li&gt;
+&lt;li&gt;new，意味着可以尝试新的玩法、新的路径、新的可能性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;你的人生，就是一次new操作的结果。你继承了人类的底层代码——生存、繁衍、情感、理性，这些是父类给的。但你有自己的属性和方法——你的性格、你的选择、你的创造，这些是你这个实例独有的。&lt;/p&gt;
+&lt;p&gt;如果你活了一辈子，只是在重复别人已经写过的方法，调用别人已经写好的接口，那你的这次new就浪费了——你没有贡献任何新东西。&lt;/p&gt;
+&lt;p&gt;但如果你创造了一些新的玩法，开发了一些新的接口，为后来者提供了新的可能性，那你的这次new就是有意义的。因为你增加了宇宙的“方法库”，让此后的人生可以有更多的选择。&lt;/p&gt;
+&lt;p&gt;这就是宇宙视角下的人生意义：&lt;strong&gt;每一次new，都是为了增加宇宙的丰富性。&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="五随业受报-vs-主动创造"&gt;五、随业受报 vs. 主动创造
+&lt;/h2&gt;&lt;p&gt;从这个角度看，人生的选择其实只有两种：&lt;/p&gt;
+&lt;p&gt;一种是&lt;strong&gt;随业受报&lt;/strong&gt;，一种是&lt;strong&gt;主动创造&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;随业受报&lt;/strong&gt;是什么？就是你的人生在重复运行已有的代码。你被业力推动，被惯性带着走，遇到好事就高兴，遇到坏事就痛苦，但从来没有跳出过这个循环。你在老的方法里运转，没有new出任何新东西。&lt;/p&gt;
+&lt;p&gt;这种人的人生，不能说没有意义，但意义是别人给的、环境给的、业力给的。他自己没有参与赋值，只是被动接受赋值。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主动创造&lt;/strong&gt;是什么？就是你参与给自己赋值。你知道人生初始是null，你知道意义是被赋予的，所以你主动选择怎么活，主动创造新的可能性。你不仅调用已有的方法，你还写新的方法；你不仅继承父类，你还扩展接口。&lt;/p&gt;
+&lt;p&gt;这种人的人生，意义是自己参与定义的。即使最后别人给他的赋值和他自己期望的不一样，他至少努力过、创造过、new过。&lt;/p&gt;
+&lt;p&gt;岳飞是主动创造，秦桧也是主动创造——只不过创造的方向不同。岳飞创造的是忠义的精神范式，秦桧创造的是奸臣的角色模板。从宇宙的角度，他们都增加了“方法库”——一个加了正面的例子，一个加了反面的例子。反面例子也是例子，也能让后来者知道“这条路走不通”。&lt;/p&gt;
+&lt;p&gt;这就是为什么秦桧的人生也有意义——虽然是被后人唾骂的意义。他在宇宙里留下了一座“反面纪念碑”，提醒后人不要重蹈覆辙。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="六如何选择你的人生"&gt;六、如何选择你的人生
+&lt;/h2&gt;&lt;p&gt;现在，问题回到你身上：你打算怎么选择？&lt;/p&gt;
+&lt;p&gt;如果你想要一个轻松的人生，你可以随业受报，跟着惯性走。这没什么不好，大多数人都是这么活的。你的意义会被环境赋值，会被他人赋值，会被时代赋值。你不需要操心，只需要接受。&lt;/p&gt;
+&lt;p&gt;但如果你想要一个更有趣的人生，如果你想让自己的这次new操作留下点什么，那你需要：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，知道自己在赋值。&lt;/strong&gt; 你每时每刻的选择，都在给自己的人生变量赋值。这个值不是别人写的，是你自己写的。意识到这一点，你就从被动接受变成了主动参与。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，创造新的接口。&lt;/strong&gt; 不要只重复别人做过的事。想想看，有什么事情是你想做、而别人没做过的？有什么视角是你有、而别人没看到的？有什么方法是你独创、而可以留给后来者的？这些就是你的new操作。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，接受赋值的不确定性。&lt;/strong&gt; 你给自己赋值，别人也给你赋值，历史也给你赋值。最终的加权平均值，不完全由你控制。岳飞的赋值里有“愚忠”的争议，秦桧的赋值里也有“务实”的辩护。你能做的，是活出你想要的那个版本，然后接受后人怎么评价。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第四，为宇宙增加一点活力。&lt;/strong&gt; 宇宙不怕你犯错，就怕你什么都不做。错误也是数据，bug也是经验，只要你在new，你就在为宇宙的丰富性做贡献。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="七最后的代码"&gt;七、最后的代码
+&lt;/h2&gt;&lt;p&gt;如果用代码来总结这篇文章，大概是这样的：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-javascript" data-lang="javascript"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;class&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;Life&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;constructor&lt;/span&gt;(&lt;span style="color:#a6e22e"&gt;name&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;name&lt;/span&gt; &lt;span style="color:#f92672"&gt;=&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;name&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;meaning&lt;/span&gt; &lt;span style="color:#f92672"&gt;=&lt;/span&gt; &lt;span style="color:#66d9ef"&gt;null&lt;/span&gt;; &lt;span style="color:#75715e"&gt;// 人生初始，意义为null
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;methods&lt;/span&gt; &lt;span style="color:#f92672"&gt;=&lt;/span&gt; []; &lt;span style="color:#75715e"&gt;// 已有的方法
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; }
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#75715e"&gt;// 给自己赋值
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;assign&lt;/span&gt;(&lt;span style="color:#a6e22e"&gt;value&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;meaning&lt;/span&gt; &lt;span style="color:#f92672"&gt;=&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;value&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;console&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;log&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;`&lt;/span&gt;&lt;span style="color:#e6db74"&gt;${&lt;/span&gt;&lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;name&lt;/span&gt;&lt;span style="color:#e6db74"&gt;}&lt;/span&gt;&lt;span style="color:#e6db74"&gt; 给自己赋值了: &lt;/span&gt;&lt;span style="color:#e6db74"&gt;${&lt;/span&gt;&lt;span style="color:#a6e22e"&gt;value&lt;/span&gt;&lt;span style="color:#e6db74"&gt;}&lt;/span&gt;&lt;span style="color:#e6db74"&gt;`&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; }
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#75715e"&gt;// 创造新方法
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;createNewMethod&lt;/span&gt;(&lt;span style="color:#a6e22e"&gt;methodName&lt;/span&gt;, &lt;span style="color:#a6e22e"&gt;implementation&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;methods&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;push&lt;/span&gt;(&lt;span style="color:#a6e22e"&gt;methodName&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;console&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;log&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;`&lt;/span&gt;&lt;span style="color:#e6db74"&gt;${&lt;/span&gt;&lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;name&lt;/span&gt;&lt;span style="color:#e6db74"&gt;}&lt;/span&gt;&lt;span style="color:#e6db74"&gt; 创造了新方法: &lt;/span&gt;&lt;span style="color:#e6db74"&gt;${&lt;/span&gt;&lt;span style="color:#a6e22e"&gt;methodName&lt;/span&gt;&lt;span style="color:#e6db74"&gt;}&lt;/span&gt;&lt;span style="color:#e6db74"&gt;`&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#75715e"&gt;// 把这个方法加入宇宙的方法库
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;Universe&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;methodLibrary&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;push&lt;/span&gt;({&lt;span style="color:#a6e22e"&gt;name&lt;/span&gt;&lt;span style="color:#f92672"&gt;:&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;methodName&lt;/span&gt;, &lt;span style="color:#a6e22e"&gt;code&lt;/span&gt;&lt;span style="color:#f92672"&gt;:&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;implementation&lt;/span&gt;});
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; }
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#75715e"&gt;// 运行人生
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;run&lt;/span&gt;() {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;if&lt;/span&gt; (&lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;meaning&lt;/span&gt; &lt;span style="color:#f92672"&gt;===&lt;/span&gt; &lt;span style="color:#66d9ef"&gt;null&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;console&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;log&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;`&lt;/span&gt;&lt;span style="color:#e6db74"&gt;${&lt;/span&gt;&lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;name&lt;/span&gt;&lt;span style="color:#e6db74"&gt;}&lt;/span&gt;&lt;span style="color:#e6db74"&gt; 的人生运行完毕，意义未定义`&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; } &lt;span style="color:#66d9ef"&gt;else&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;console&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;log&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;`&lt;/span&gt;&lt;span style="color:#e6db74"&gt;${&lt;/span&gt;&lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;name&lt;/span&gt;&lt;span style="color:#e6db74"&gt;}&lt;/span&gt;&lt;span style="color:#e6db74"&gt; 的人生意义是: &lt;/span&gt;&lt;span style="color:#e6db74"&gt;${&lt;/span&gt;&lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;meaning&lt;/span&gt;&lt;span style="color:#e6db74"&gt;}&lt;/span&gt;&lt;span style="color:#e6db74"&gt;`&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; }
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#75715e"&gt;// 检查是否创造了新方法
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;if&lt;/span&gt; (&lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;methods&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;length&lt;/span&gt; &lt;span style="color:#f92672"&gt;&amp;gt;&lt;/span&gt; &lt;span style="color:#ae81ff"&gt;0&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;console&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;log&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;`为宇宙贡献了新方法: &lt;/span&gt;&lt;span style="color:#e6db74"&gt;${&lt;/span&gt;&lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;methods&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;join&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#39;, &amp;#39;&lt;/span&gt;)&lt;span style="color:#e6db74"&gt;}&lt;/span&gt;&lt;span style="color:#e6db74"&gt;`&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; }
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; }
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;// 你的人生实例
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;const&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;myLife&lt;/span&gt; &lt;span style="color:#f92672"&gt;=&lt;/span&gt; &lt;span style="color:#66d9ef"&gt;new&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;Life&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#39;你的名字&amp;#39;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#a6e22e"&gt;myLife&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;assign&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#39;你想赋的值&amp;#39;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#a6e22e"&gt;myLife&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;createNewMethod&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#39;你的玩法&amp;#39;&lt;/span&gt;, &lt;span style="color:#a6e22e"&gt;yourImplementation&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#a6e22e"&gt;myLife&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;run&lt;/span&gt;();
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这段代码的返回值，就是你人生的意义。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="结语"&gt;结语
+&lt;/h2&gt;&lt;p&gt;人生本身没有意义，这是宇宙给的自由。&lt;/p&gt;
+&lt;p&gt;正因为没有预设的意义，你才可以自己赋值；正因为初始值是null，你才可以new出无限可能。&lt;/p&gt;
+&lt;p&gt;聪明如你，一定知道该怎么选择了。&lt;/p&gt;
+&lt;p&gt;愿你的人生，不是一段默默运行的代码，而是一个为宇宙方法库贡献了新接口的创造者。&lt;/p&gt;
+&lt;p&gt;愿你离开之后，那座精神能量的纪念碑上，刻着你亲自赋值的那个词。&lt;/p&gt;
+&lt;hr&gt;</description></item><item><title>人生意义</title><link>https://vanvj00002.github.io/monkvan/posts/%E4%BA%BA%E7%94%9F%E6%84%8F%E4%B9%89/</link><pubDate>Sat, 07 Mar 2026 11:38:00 +0800</pubDate><guid>https://vanvj00002.github.io/monkvan/posts/%E4%BA%BA%E7%94%9F%E6%84%8F%E4%B9%89/</guid><description>&lt;h1 id="人生的意义程序员篇"&gt;人生的意义（程序员篇）
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;关键词&lt;/strong&gt;：无自性、赋值、new操作、继承、宇宙根函数、精神能量、纪念碑&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="前言"&gt;前言
+&lt;/h2&gt;&lt;p&gt;如果人生是一场编程，你会怎么写这段代码？&lt;/p&gt;
+&lt;p&gt;这个问题听起来有点奇怪，但仔细想想，我们每个人确实都在写一段叫做“人生”的程序。有的人写的是Hello World，简单跑完就结束；有的人写的是复杂的算法，层层嵌套，影响深远；有的人写的是死循环，困在自己的情绪里出不来；有的人写的是递归函数，一遍遍调用自己，却始终没有返回值。&lt;/p&gt;
+&lt;p&gt;那么，这段程序的意义是什么？是代码本身，还是运行结果？是编译器给的，还是程序员自己赋予的？&lt;/p&gt;
+&lt;p&gt;这篇文章，我想用程序员的视角，聊聊这个古老又新鲜的话题——人生的意义。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="一人生本身一段返回null的函数"&gt;一、人生本身：一段返回null的函数
+&lt;/h2&gt;&lt;p&gt;先说结论：&lt;strong&gt;就人生而言，本身是没有任何意义的。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;听起来有点丧？别急，听我解释。&lt;/p&gt;
+&lt;p&gt;就像一段代码，如果你只是写了一个函数，但没有调用它，没有给它传参，没有让它和外界交互，那它就只是一段躺在文件里的文本。它有意义吗？有，作为文本它存在；但没有，因为它没有产生任何作用。&lt;/p&gt;
+&lt;p&gt;人生也是这样。单纯地“活着”，吃饭、睡觉、工作、死亡，这个过程本身就像一段没有返回值、没有副作用的函数——它运行了，结束了，仅此而已。&lt;/p&gt;
+&lt;p&gt;用程序员的术语说：&lt;strong&gt;人生的意义，初始值是null。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;null不是0，0还有数值，null是什么都没有。人生来的时候，意义这个变量是空的，等着被赋值。&lt;/p&gt;
+&lt;p&gt;这就是为什么有些人活得浑浑噩噩，因为他们从来没有给自己的生命赋值；有些人活得轰轰烈烈，因为他们赋了一个很大的值；还有些人活得拧巴，因为他们赋的值和自己的底层代码冲突了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="二被赋值的人生从null到有值"&gt;二、被赋值的人生：从null到有值
+&lt;/h2&gt;&lt;p&gt;那么，谁来给人生赋值？&lt;/p&gt;
+&lt;p&gt;答案是：&lt;strong&gt;自己、他人、时代、历史，共同参与赋值。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;你每做一个选择，就是在给自己的人生变量赋一次值。你今天决定早起读书，赋值了“勤奋”；你明天决定躺平摆烂，赋值了“懈怠”。这些赋值是即时的，也是累积的。&lt;/p&gt;
+&lt;p&gt;更重要的是，&lt;strong&gt;他人也在给你赋值&lt;/strong&gt;。你做了一件好事，别人说“这人善良”，这是赋值；你做了一件坏事，别人说“这人卑鄙”，这也是赋值。这些赋值会汇聚成一种东西——口碑、名声、评价，最终成为你在他人心中的“存在”。&lt;/p&gt;
+&lt;p&gt;岳飞的人生，被赋值了“精忠报国”“一身正气”“骁勇善战”“文武双全”。这些赋值不是岳飞自己写的，是后人加上去的。但他用一生的行动，提供了被这样赋值的“接口”。所以他虽然只活了39岁，但900年后的今天，我们提起岳飞，那些赋值还在生效。&lt;/p&gt;
+&lt;p&gt;秦桧的人生，被赋值了“不忠不义”“阴险狡诈”“卖国求荣”。站在他自己的角度，他可能有完全不同的解释——维护和谈、稳定局势、保全家族。他给自己赋值的是“务实”“理性”“为国谋和”。但历史的赋值权不在他一个人手里，后人给了另一个版本。&lt;/p&gt;
+&lt;p&gt;这说明什么？说明&lt;strong&gt;人生的意义不是单方面决定的，是一个多方参与、动态更新的过程&lt;/strong&gt;。你给自己赋值，别人给你赋值，时代给你赋值，历史给你赋值。最终那个值，是所有这些赋值的加权平均——或者说，是这些能量汇聚后的结果。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="三精神能量的物质化看不见的纪念碑"&gt;三、精神能量的物质化：看不见的“纪念碑”
+&lt;/h2&gt;&lt;p&gt;有意思的是，这些赋值并不是虚无缥缈的。&lt;/p&gt;
+&lt;p&gt;当一个人的人生被赋予某种意义，这种意义就会转化为一种&lt;strong&gt;精神能量&lt;/strong&gt;。当很多人的这种能量汇聚在一起，它会变得越来越强，甚至可能&lt;strong&gt;物质化&lt;/strong&gt;——不是变成金子银子，而是变成一种看得见摸得着的东西。&lt;/p&gt;
+&lt;p&gt;比如岳飞的“精忠报国”，最终物质化成什么？化成了杭州的岳王庙，化成了西湖边的岳飞墓，化成了“青山有幸埋忠骨，白铁无辜铸佞臣”的对联，化成了无数人前去瞻仰、跪拜、沉思的那个空间。&lt;/p&gt;
+&lt;p&gt;比如孔子的“有教无类”“因材施教”，物质化成什么？化成了遍布全球的孔子学院，化成了两千多年来无数学子诵读的《论语》，化成了“天不生仲尼，万古如长夜”的文化认同。&lt;/p&gt;
+&lt;p&gt;这就是我说的&lt;strong&gt;精神能量的物质化&lt;/strong&gt;——它会产生一座“纪念碑”。这座纪念碑可能是实体的建筑，可能是流传的文字，可能是口耳相传的故事，也可能只是人们心里那个共同的情感空间。但无论形式如何，它承载的精神力量会感染后来者，影响一代又一代人的人生。&lt;/p&gt;
+&lt;p&gt;而那些没有被赋值、或者赋值太弱的人生，就像没有留下任何痕迹的代码，运行完就删除了，连日志都没存。从宇宙的角度看，它们存在过，但相当于不存在。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="四宇宙的根函数人生的意义在于new"&gt;四、宇宙的根函数：人生的意义在于new
+&lt;/h2&gt;&lt;p&gt;说到这里，你可能要问：有没有一个更终极的赋值者？有没有一个代表宇宙整体的规则，来定义人生的意义？&lt;/p&gt;
+&lt;p&gt;答案是：有的。在宇宙这个超级操作系统里，有一个“根函数”。&lt;/p&gt;
+&lt;p&gt;这个根函数给所有人生设定的底层意义是——&lt;strong&gt;new&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;是的，就是编程里的那个&lt;code&gt;new&lt;/code&gt;操作。&lt;/p&gt;
+&lt;p&gt;为什么要new？因为在宇宙看来，最可怕的事情不是错误，不是bug，而是&lt;strong&gt;重复&lt;/strong&gt;。如果一个宇宙只会重复已有的东西，那它就是死宇宙，没有活力，没有进化，没有惊喜。&lt;/p&gt;
+&lt;p&gt;所以，根函数的逻辑是：&lt;strong&gt;每一次生命的诞生，都应该是一个new操作&lt;/strong&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;new，意味着在继承的基础上，创建新的实例&lt;/li&gt;
+&lt;li&gt;new，意味着可以添加新的方法和新的接口&lt;/li&gt;
+&lt;li&gt;new，意味着可以尝试新的玩法、新的路径、新的可能性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;你的人生，就是一次new操作的结果。你继承了人类的底层代码——生存、繁衍、情感、理性，这些是父类给的。但你有自己的属性和方法——你的性格、你的选择、你的创造，这些是你这个实例独有的。&lt;/p&gt;
+&lt;p&gt;如果你活了一辈子，只是在重复别人已经写过的方法，调用别人已经写好的接口，那你的这次new就浪费了——你没有贡献任何新东西。&lt;/p&gt;
+&lt;p&gt;但如果你创造了一些新的玩法，开发了一些新的接口，为后来者提供了新的可能性，那你的这次new就是有意义的。因为你增加了宇宙的“方法库”，让此后的人生可以有更多的选择。&lt;/p&gt;
+&lt;p&gt;这就是宇宙视角下的人生意义：&lt;strong&gt;每一次new，都是为了增加宇宙的丰富性。&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="五随业受报-vs-主动创造"&gt;五、随业受报 vs. 主动创造
+&lt;/h2&gt;&lt;p&gt;从这个角度看，人生的选择其实只有两种：&lt;/p&gt;
+&lt;p&gt;一种是&lt;strong&gt;随业受报&lt;/strong&gt;，一种是&lt;strong&gt;主动创造&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;随业受报&lt;/strong&gt;是什么？就是你的人生在重复运行已有的代码。你被业力推动，被惯性带着走，遇到好事就高兴，遇到坏事就痛苦，但从来没有跳出过这个循环。你在老的方法里运转，没有new出任何新东西。&lt;/p&gt;
+&lt;p&gt;这种人的人生，不能说没有意义，但意义是别人给的、环境给的、业力给的。他自己没有参与赋值，只是被动接受赋值。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主动创造&lt;/strong&gt;是什么？就是你参与给自己赋值。你知道人生初始是null，你知道意义是被赋予的，所以你主动选择怎么活，主动创造新的可能性。你不仅调用已有的方法，你还写新的方法；你不仅继承父类，你还扩展接口。&lt;/p&gt;
+&lt;p&gt;这种人的人生，意义是自己参与定义的。即使最后别人给他的赋值和他自己期望的不一样，他至少努力过、创造过、new过。&lt;/p&gt;
+&lt;p&gt;岳飞是主动创造，秦桧也是主动创造——只不过创造的方向不同。岳飞创造的是忠义的精神范式，秦桧创造的是奸臣的角色模板。从宇宙的角度，他们都增加了“方法库”——一个加了正面的例子，一个加了反面的例子。反面例子也是例子，也能让后来者知道“这条路走不通”。&lt;/p&gt;
+&lt;p&gt;这就是为什么秦桧的人生也有意义——虽然是被后人唾骂的意义。他在宇宙里留下了一座“反面纪念碑”，提醒后人不要重蹈覆辙。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="六如何选择你的人生"&gt;六、如何选择你的人生
+&lt;/h2&gt;&lt;p&gt;现在，问题回到你身上：你打算怎么选择？&lt;/p&gt;
+&lt;p&gt;如果你想要一个轻松的人生，你可以随业受报，跟着惯性走。这没什么不好，大多数人都是这么活的。你的意义会被环境赋值，会被他人赋值，会被时代赋值。你不需要操心，只需要接受。&lt;/p&gt;
+&lt;p&gt;但如果你想要一个更有趣的人生，如果你想让自己的这次new操作留下点什么，那你需要：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一，知道自己在赋值。&lt;/strong&gt; 你每时每刻的选择，都在给自己的人生变量赋值。这个值不是别人写的，是你自己写的。意识到这一点，你就从被动接受变成了主动参与。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二，创造新的接口。&lt;/strong&gt; 不要只重复别人做过的事。想想看，有什么事情是你想做、而别人没做过的？有什么视角是你有、而别人没看到的？有什么方法是你独创、而可以留给后来者的？这些就是你的new操作。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第三，接受赋值的不确定性。&lt;/strong&gt; 你给自己赋值，别人也给你赋值，历史也给你赋值。最终的加权平均值，不完全由你控制。岳飞的赋值里有“愚忠”的争议，秦桧的赋值里也有“务实”的辩护。你能做的，是活出你想要的那个版本，然后接受后人怎么评价。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第四，为宇宙增加一点活力。&lt;/strong&gt; 宇宙不怕你犯错，就怕你什么都不做。错误也是数据，bug也是经验，只要你在new，你就在为宇宙的丰富性做贡献。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="七最后的代码"&gt;七、最后的代码
+&lt;/h2&gt;&lt;p&gt;如果用代码来总结这篇文章，大概是这样的：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-javascript" data-lang="javascript"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;class&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;Life&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;constructor&lt;/span&gt;(&lt;span style="color:#a6e22e"&gt;name&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;name&lt;/span&gt; &lt;span style="color:#f92672"&gt;=&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;name&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;meaning&lt;/span&gt; &lt;span style="color:#f92672"&gt;=&lt;/span&gt; &lt;span style="color:#66d9ef"&gt;null&lt;/span&gt;; &lt;span style="color:#75715e"&gt;// 人生初始，意义为null
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;methods&lt;/span&gt; &lt;span style="color:#f92672"&gt;=&lt;/span&gt; []; &lt;span style="color:#75715e"&gt;// 已有的方法
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; }
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#75715e"&gt;// 给自己赋值
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;assign&lt;/span&gt;(&lt;span style="color:#a6e22e"&gt;value&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;meaning&lt;/span&gt; &lt;span style="color:#f92672"&gt;=&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;value&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;console&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;log&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;`&lt;/span&gt;&lt;span style="color:#e6db74"&gt;${&lt;/span&gt;&lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;name&lt;/span&gt;&lt;span style="color:#e6db74"&gt;}&lt;/span&gt;&lt;span style="color:#e6db74"&gt; 给自己赋值了: &lt;/span&gt;&lt;span style="color:#e6db74"&gt;${&lt;/span&gt;&lt;span style="color:#a6e22e"&gt;value&lt;/span&gt;&lt;span style="color:#e6db74"&gt;}&lt;/span&gt;&lt;span style="color:#e6db74"&gt;`&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; }
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#75715e"&gt;// 创造新方法
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;createNewMethod&lt;/span&gt;(&lt;span style="color:#a6e22e"&gt;methodName&lt;/span&gt;, &lt;span style="color:#a6e22e"&gt;implementation&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;methods&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;push&lt;/span&gt;(&lt;span style="color:#a6e22e"&gt;methodName&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;console&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;log&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;`&lt;/span&gt;&lt;span style="color:#e6db74"&gt;${&lt;/span&gt;&lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;name&lt;/span&gt;&lt;span style="color:#e6db74"&gt;}&lt;/span&gt;&lt;span style="color:#e6db74"&gt; 创造了新方法: &lt;/span&gt;&lt;span style="color:#e6db74"&gt;${&lt;/span&gt;&lt;span style="color:#a6e22e"&gt;methodName&lt;/span&gt;&lt;span style="color:#e6db74"&gt;}&lt;/span&gt;&lt;span style="color:#e6db74"&gt;`&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#75715e"&gt;// 把这个方法加入宇宙的方法库
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;Universe&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;methodLibrary&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;push&lt;/span&gt;({&lt;span style="color:#a6e22e"&gt;name&lt;/span&gt;&lt;span style="color:#f92672"&gt;:&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;methodName&lt;/span&gt;, &lt;span style="color:#a6e22e"&gt;code&lt;/span&gt;&lt;span style="color:#f92672"&gt;:&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;implementation&lt;/span&gt;});
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; }
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#75715e"&gt;// 运行人生
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;run&lt;/span&gt;() {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;if&lt;/span&gt; (&lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;meaning&lt;/span&gt; &lt;span style="color:#f92672"&gt;===&lt;/span&gt; &lt;span style="color:#66d9ef"&gt;null&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;console&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;log&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;`&lt;/span&gt;&lt;span style="color:#e6db74"&gt;${&lt;/span&gt;&lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;name&lt;/span&gt;&lt;span style="color:#e6db74"&gt;}&lt;/span&gt;&lt;span style="color:#e6db74"&gt; 的人生运行完毕，意义未定义`&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; } &lt;span style="color:#66d9ef"&gt;else&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;console&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;log&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;`&lt;/span&gt;&lt;span style="color:#e6db74"&gt;${&lt;/span&gt;&lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;name&lt;/span&gt;&lt;span style="color:#e6db74"&gt;}&lt;/span&gt;&lt;span style="color:#e6db74"&gt; 的人生意义是: &lt;/span&gt;&lt;span style="color:#e6db74"&gt;${&lt;/span&gt;&lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;meaning&lt;/span&gt;&lt;span style="color:#e6db74"&gt;}&lt;/span&gt;&lt;span style="color:#e6db74"&gt;`&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; }
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#75715e"&gt;// 检查是否创造了新方法
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;if&lt;/span&gt; (&lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;methods&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;length&lt;/span&gt; &lt;span style="color:#f92672"&gt;&amp;gt;&lt;/span&gt; &lt;span style="color:#ae81ff"&gt;0&lt;/span&gt;) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;console&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;log&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;`为宇宙贡献了新方法: &lt;/span&gt;&lt;span style="color:#e6db74"&gt;${&lt;/span&gt;&lt;span style="color:#66d9ef"&gt;this&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;methods&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;join&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#39;, &amp;#39;&lt;/span&gt;)&lt;span style="color:#e6db74"&gt;}&lt;/span&gt;&lt;span style="color:#e6db74"&gt;`&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; }
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; }
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;// 你的人生实例
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;const&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;myLife&lt;/span&gt; &lt;span style="color:#f92672"&gt;=&lt;/span&gt; &lt;span style="color:#66d9ef"&gt;new&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;Life&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#39;你的名字&amp;#39;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#a6e22e"&gt;myLife&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;assign&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#39;你想赋的值&amp;#39;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#a6e22e"&gt;myLife&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;createNewMethod&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#39;你的玩法&amp;#39;&lt;/span&gt;, &lt;span style="color:#a6e22e"&gt;yourImplementation&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#a6e22e"&gt;myLife&lt;/span&gt;.&lt;span style="color:#a6e22e"&gt;run&lt;/span&gt;();
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;这段代码的返回值，就是你人生的意义。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="结语"&gt;结语
+&lt;/h2&gt;&lt;p&gt;人生本身没有意义，这是宇宙给的自由。&lt;/p&gt;
+&lt;p&gt;正因为没有预设的意义，你才可以自己赋值；正因为初始值是null，你才可以new出无限可能。&lt;/p&gt;
+&lt;p&gt;聪明如你，一定知道该怎么选择了。&lt;/p&gt;
+&lt;p&gt;愿你的人生，不是一段默默运行的代码，而是一个为宇宙方法库贡献了新接口的创造者。&lt;/p&gt;
+&lt;p&gt;愿你离开之后，那座精神能量的纪念碑上，刻着你亲自赋值的那个词。&lt;/p&gt;
+&lt;hr&gt;</description></item><item><title>人生意义-荀彧与秦桧</title><link>https://vanvj00002.github.io/monkvan/posts/%E4%BA%BA%E7%94%9F%E6%84%8F%E4%B9%89-%E8%8D%80%E5%BD%A7%E4%B8%8E%E7%A7%A6%E6%A1%A7/</link><pubDate>Sat, 07 Mar 2026 11:38:00 +0800</pubDate><guid>https://vanvj00002.github.io/monkvan/posts/%E4%BA%BA%E7%94%9F%E6%84%8F%E4%B9%89-%E8%8D%80%E5%BD%A7%E4%B8%8E%E7%A7%A6%E6%A1%A7/</guid><description>&lt;h1 id="荀彧与秦桧两种人生赋值的千年对望"&gt;荀彧与秦桧：两种人生赋值的千年对望
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;关键词&lt;/strong&gt;：名节、生存、赋值、反面教材、历史复利、方法库、正例与反例&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="前言"&gt;前言
+&lt;/h2&gt;&lt;p&gt;历史有时候像一面镜子，照见的不仅是过去，更是我们自己。&lt;/p&gt;
+&lt;p&gt;当我们把荀彧和秦桧放在一起看，会发现一个很有意思的现象：这两个人，一个选择了死，一个选择了生；一个被后人跪拜，一个被后人唾骂。但他们都留下了自己的“人生意义”——只是这个意义，和当事人自己想象的，可能完全不同。&lt;/p&gt;
+&lt;p&gt;荀彧打开曹操送来的空食盒，服毒自尽的那一刻，他心里想的是什么？秦桧在临死前，有没有想过自己会跪在岳飞墓前九百年？&lt;/p&gt;
+&lt;p&gt;这篇文章，我们继续用“人生赋值论”的视角，来看这两个极端案例。他们就像两个极端坐标，标出了人生意义这条轴线的两端——一端是名节高于生命，一端是生存压倒一切。而在这两端之间，是我们每一个普通人。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="一秦桧自己的赋值他是怎么想的"&gt;一、秦桧自己的赋值：他是怎么想的
+&lt;/h2&gt;&lt;p&gt;先说秦桧。&lt;/p&gt;
+&lt;p&gt;站在秦桧的角度，他一定给自己赋了很好的值。&lt;/p&gt;
+&lt;p&gt;他年轻时也是状元出身，才学过人，写得一手好文章。靖康之变中，他和许多宋朝官员一起被金人掳去，受尽屈辱。后来，他设法逃回南宋，一路做到宰相。在他自己看来，他做的每一件事都有理由：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;“主和”&lt;/strong&gt;：不打仗，就能少死很多人。战争是要死人的，死的是普通百姓，是士兵，是他们的家人。能不打就不打，这是慈悲。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;“稳定”&lt;/strong&gt;：南宋初立，百废待兴，需要休养生息。打不过金国，硬打只会拖垮国家。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;“务实”&lt;/strong&gt;：承认现实，保存实力，等待时机。这不是投降，是策略。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;他甚至可能真的认为，自己是那个“为国负重”的人——背着骂名，做别人不敢做的选择。岳飞在他眼里，可能就是个“不识时务”的愣头青：你非要打，打不过怎么办？把国家拖垮了，谁来负责？&lt;/p&gt;
+&lt;p&gt;所以他构陷岳飞，不是单纯因为坏，而是因为他有自己的“逻辑”。在这个逻辑里，他是对的，岳飞是错的。他是理性的，岳飞是冲动的。他是为国家长远考虑，岳飞只顾一时痛快。&lt;/p&gt;
+&lt;p&gt;这就是秦桧给自己赋的值：&lt;strong&gt;务实、理性、为国谋和&lt;/strong&gt;。他的同党们，自然也认同这个赋值——权力集团内部，需要一个共同的叙事来支撑彼此的行为。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="二秦桧留下的遗产反面教材的意义"&gt;二、秦桧留下的遗产：反面教材的意义
+&lt;/h2&gt;&lt;p&gt;但问题在于：赋值的主体，不只是你自己。&lt;/p&gt;
+&lt;p&gt;秦桧活着的时候，他的赋值看起来很成功。他掌握权力，掌控舆论，甚至让宋高宗配合他演了一出“莫须有”的戏。岳飞死了，他赢了。&lt;/p&gt;
+&lt;p&gt;可他没想到的是，历史不是只在当下运行的。&lt;/p&gt;
+&lt;p&gt;秦桧死后，他留下的“遗产”逐渐显现。这个遗产，不是他想要的，但确实是他留下的：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;他成了反面教材。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在中国历史上，秦桧成了一个符号——“奸臣”的符号。岳飞墓前跪着的那个铁像，几百年来被无数人唾骂、抽打、吐口水。跪了那么多年，跪到铁像都换了好几拨，跪到“白铁无辜铸佞臣”成了千古名句。&lt;/p&gt;
+&lt;p&gt;这是什么？这就是他的人生意义——&lt;strong&gt;他成了“忠”的对照物，成了“义”的反面例证&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;没有秦桧，岳飞的“精忠报国”就少了一层悲剧的张力；没有秦桧，后人谈论“忠奸”时就少了一个最经典的案例。他用自己的“不忠不义”，成就了“忠义”这两个字在历史中的重量。&lt;/p&gt;
+&lt;p&gt;这不是替他开脱，而是说——&lt;strong&gt;负面的意义，也是意义&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="三宇宙视角正例与反例都是方法库的一部分"&gt;三、宇宙视角：正例与反例，都是方法库的一部分
+&lt;/h2&gt;&lt;p&gt;还记得我们聊过的“根函数”吗？从宇宙的角度看，每一次生命的诞生，都是一次&lt;code&gt;new&lt;/code&gt;操作。这个操作的意义，在于增加“方法库”的丰富性——为后来者提供更多可调用的范本。&lt;/p&gt;
+&lt;p&gt;岳飞&lt;code&gt;new&lt;/code&gt;出了“精忠报国”的正面范式。他用生命诠释了什么叫“明知不可为而为之”，什么叫“名节高于生命”。他的赋值，是主动的、清醒的、与自己的信念完全一致的。&lt;/p&gt;
+&lt;p&gt;秦桧&lt;code&gt;new&lt;/code&gt;出了“奸臣构陷”的反面范式。他用权力和生存，诠释了什么叫“无大义、无廉耻”，什么叫“只要能活着，什么都行”。他的赋值，也是主动的，但他没想到——或者说不在乎——后人会给他另一个赋值。&lt;/p&gt;
+&lt;p&gt;从宇宙的角度看，他们俩都增加了“方法库”的丰富性。后人讨论岳飞的时候，一定会提到秦桧；讨论忠义的时候，一定会提到奸臣。两个实例，互相成就，缺一不可。&lt;/p&gt;
+&lt;p&gt;任何一个系统，都需要正反两面的反馈来维持稳定。没有恶，善就没有参照；没有奸，忠就没有那么耀眼。秦桧的人生意义，就是成为那个“参照系”里的负向坐标。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="四为什么秦桧被赋值和自己想的完全不同"&gt;四、为什么秦桧“被赋值”和自己想的完全不同？
+&lt;/h2&gt;&lt;p&gt;这就涉及到我们之前聊过的另一个问题：&lt;strong&gt;赋值的主体是谁？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;秦桧自己&lt;/strong&gt;：务实、理性、为国谋和&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;他的同党&lt;/strong&gt;：同气相投，互相认可&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;当时的统治者（宋高宗）&lt;/strong&gt;：需要他背锅，需要他承担杀岳飞的骂名&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;后世的民众&lt;/strong&gt;：奸臣、卖国贼——这是最朴素的善恶判断&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;历代的统治阶级&lt;/strong&gt;：为了教化需要，把他塑造成反面典型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这么多赋值同时存在，哪个是“最终意义”？&lt;/p&gt;
+&lt;p&gt;答案是：&lt;strong&gt;看时间的复利&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;短期看，秦桧的权力赋值最强——他能杀岳飞，能掌控舆论，能让当时的文人按他的意思写历史。中期看，统治者的赋值更强——为了稳定统治，需要给历史一个说法，需要确立忠奸的标准。长期看，&lt;strong&gt;民众的赋值最强&lt;/strong&gt;——因为民众不关心权力斗争，只关心最朴素的善恶观。&lt;/p&gt;
+&lt;p&gt;一千年后，秦桧在民间是什么形象？就是那个跪着的铁像。至于他当年怎么解释自己，没人记得了。他的同党是谁，没人关心了。宋高宗心里怎么想，也没人在意了。&lt;/p&gt;
+&lt;p&gt;这就是秦桧的人生意义：&lt;strong&gt;被历史赋值成了“奸臣”&lt;/strong&gt;。他自己怎么想，已经不重要了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="五荀彧的赋值清醒地走向死亡"&gt;五、荀彧的赋值：清醒地走向死亡
+&lt;/h2&gt;&lt;p&gt;再看荀彧。&lt;/p&gt;
+&lt;p&gt;荀彧和秦桧不一样。他的人生赋值，是清醒的、主动的、与自己的信念一致的。&lt;/p&gt;
+&lt;p&gt;荀彧辅佐曹操二十多年，为曹操奠定霸业立下汗马功劳。但他心里有一条线：他帮曹操，是因为曹操能“匡扶汉室”。当曹操露出称帝野心、要加九锡、晋魏公时，荀彧明确反对：“君子爱人以德，不宜如此。”&lt;/p&gt;
+&lt;p&gt;他当然知道反对的后果。曹操是什么人？宁可我负天下人，休教天下人负我。荀彧在官场沉浮几十年，他太清楚了。&lt;/p&gt;
+&lt;p&gt;但他还是反对了。&lt;/p&gt;
+&lt;p&gt;曹操送来空食盒。那是一个隐喻：你已经没有用了；或者说，你自己看着办。&lt;/p&gt;
+&lt;p&gt;荀彧看懂了。他选择了死。&lt;/p&gt;
+&lt;p&gt;他不是不知道活着的好处。以他的功勋，只要低头，照样可以安享富贵。但他选择了不低头。因为他知道，一旦低头，他就不是荀彧了。那个坚守了一辈子的“名节”，就碎了。&lt;/p&gt;
+&lt;p&gt;他死的时候，心里可能是坦然的：我知道我为什么死，我知道后人会怎么看我。&lt;/p&gt;
+&lt;p&gt;后来的历史证明，他没想错。一千八百年后，我们还在谈论荀彧，还在感慨他的风骨。他给自己赋的值——“忠于汉室，名节不亏”——被历史完整地保留了下来。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="六两种意义的对比主动赋值与被覆盖"&gt;六、两种意义的对比：主动赋值与被覆盖
+&lt;/h2&gt;&lt;p&gt;荀彧和秦桧，形成了鲜明的对比：&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;strong&gt;荀彧&lt;/strong&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;strong&gt;秦桧&lt;/strong&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;自己赋值&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;忠于汉室，名节至上&lt;/td&gt;
+ &lt;td&gt;务实理性，为国谋和&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;选择&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;死，守住底线&lt;/td&gt;
+ &lt;td&gt;生，不择手段&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;赋值主体&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;自己清醒选择，历史认同&lt;/td&gt;
+ &lt;td&gt;自己选择，被历史覆盖&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;结果&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;正面典范，被赞颂&lt;/td&gt;
+ &lt;td&gt;反面教材，被唾骂&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;历史角色&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;正例&lt;/td&gt;
+ &lt;td&gt;反例&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;时间复利&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;正向积累&lt;/td&gt;
+ &lt;td&gt;负向固化&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;荀彧死的时候，心里是坦然的。秦桧死的时候，心里在想什么？有没有想过自己会跪在岳飞墓前几百年？有没有想过“白铁无辜铸佞臣”这句话？&lt;/p&gt;
+&lt;p&gt;不知道。但可以想见，那种不安，可能比死还难受。&lt;/p&gt;
+&lt;p&gt;因为最深的惩罚，不是肉体死亡，而是——&lt;strong&gt;你无法控制后人怎么看你&lt;/strong&gt;。你活着的时候可以杀人，可以封口，可以改写历史。但你死了之后呢？历史会用自己的方式，给你一个最终赋值。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="七秦桧的意义到底是什么"&gt;七、秦桧的意义到底是什么？
+&lt;/h2&gt;&lt;p&gt;回到最初的问题：秦桧的生命意义是什么？&lt;/p&gt;
+&lt;p&gt;他的意义是：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;他用自己的“无大义、无廉耻”，为后人提供了一个最清晰的“不该怎么活”的样本。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他的存在，让“忠义”这两个字更具体了；他的跪像，让每一代路过的人都能看到——原来人活成这样，会被历史这样记住。&lt;/p&gt;
+&lt;p&gt;这不是他想要的意义，但这确实是他留下的意义。&lt;/p&gt;
+&lt;p&gt;从宇宙“方法库”的角度看，他贡献了一个反面函数。后人调用“忠义”的时候，这个反面函数会自动弹出，作为对照。这就是他的价值——虽然是负向的，但依然是价值。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="八回到我们自己你想给自己赋什么值"&gt;八、回到我们自己：你想给自己赋什么值？
+&lt;/h2&gt;&lt;p&gt;聊完荀彧和秦桧，回到我们每个人自己。&lt;/p&gt;
+&lt;p&gt;我们都不是荀彧，也不是秦桧。我们只是普通人，在普通的日子里做着普通的选择。但每一个选择，都在给自己的人生变量赋值。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;你今天帮了别人一把，赋了一个“善良”&lt;/li&gt;
+&lt;li&gt;你今天说了谎话，赋了一个“虚伪”&lt;/li&gt;
+&lt;li&gt;你今天坚持了原则，赋了一个“正直”&lt;/li&gt;
+&lt;li&gt;你今天放弃了底线，赋了一个“苟且”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些赋值会累积，最终形成你在世界上的“哈希值”——别人一提起你，脑海里出现的那几个关键词。&lt;/p&gt;
+&lt;p&gt;更重要的是，这些赋值会决定你&lt;strong&gt;自己怎么看待自己&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;夜深人静的时候，你能不能坦然面对镜子里的那个人？你这一生，到底想活成什么样子？&lt;/p&gt;
+&lt;p&gt;你可以学岳飞，求大义、求名节，哪怕死也认了。
+你也可以学秦桧，求生存、求务实，不在乎后人怎么说。
+这都是选择。&lt;/p&gt;
+&lt;p&gt;区别只在于：&lt;strong&gt;你选的这个值，最后能不能真的写进宇宙的方法库里，成为后来者可以调用的那个函数。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;岳飞被调用了九百年，秦桧也被调用了九百年——只不过一个是正例，一个是反例。&lt;/p&gt;
+&lt;p&gt;都是意义，都是&lt;code&gt;new&lt;/code&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="结语"&gt;结语
+&lt;/h2&gt;&lt;p&gt;荀彧和秦桧，站在历史的两端，遥遥相望。&lt;/p&gt;
+&lt;p&gt;一个用死守住了自己的赋值，一个用生换来了被覆盖的赋值。一个被后人赞颂，一个被后人唾骂。但他们都在宇宙的方法库里，留下了自己的那一行代码。&lt;/p&gt;
+&lt;p&gt;这一行代码，是正还是反，由不得他们自己完全决定。但至少，荀彧可以坦然地说：我写了我想写的。秦桧呢？他可能从来没想过，后人会这样改写他的代码。&lt;/p&gt;
+&lt;p&gt;而我们，还在写着。&lt;/p&gt;
+&lt;p&gt;你的代码，正在一行一行地写下去。你想写什么？你想留下什么？你准备好接受时间复利的检验了吗？&lt;/p&gt;
+&lt;hr&gt;</description></item><item><title>人生意义-荀彧与秦桧</title><link>https://vanvj00002.github.io/monkvan/posts/%E4%BA%BA%E7%94%9F%E6%84%8F%E4%B9%89-%E8%8D%80%E5%BD%A7%E4%B8%8E%E7%A7%A6%E6%A1%A7/</link><pubDate>Sat, 07 Mar 2026 11:38:00 +0800</pubDate><guid>https://vanvj00002.github.io/monkvan/posts/%E4%BA%BA%E7%94%9F%E6%84%8F%E4%B9%89-%E8%8D%80%E5%BD%A7%E4%B8%8E%E7%A7%A6%E6%A1%A7/</guid><description>&lt;h1 id="荀彧与秦桧两种人生赋值的千年对望"&gt;荀彧与秦桧：两种人生赋值的千年对望
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;关键词&lt;/strong&gt;：名节、生存、赋值、反面教材、历史复利、方法库、正例与反例&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="前言"&gt;前言
+&lt;/h2&gt;&lt;p&gt;历史有时候像一面镜子，照见的不仅是过去，更是我们自己。&lt;/p&gt;
+&lt;p&gt;当我们把荀彧和秦桧放在一起看，会发现一个很有意思的现象：这两个人，一个选择了死，一个选择了生；一个被后人跪拜，一个被后人唾骂。但他们都留下了自己的“人生意义”——只是这个意义，和当事人自己想象的，可能完全不同。&lt;/p&gt;
+&lt;p&gt;荀彧打开曹操送来的空食盒，服毒自尽的那一刻，他心里想的是什么？秦桧在临死前，有没有想过自己会跪在岳飞墓前九百年？&lt;/p&gt;
+&lt;p&gt;这篇文章，我们继续用“人生赋值论”的视角，来看这两个极端案例。他们就像两个极端坐标，标出了人生意义这条轴线的两端——一端是名节高于生命，一端是生存压倒一切。而在这两端之间，是我们每一个普通人。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="一秦桧自己的赋值他是怎么想的"&gt;一、秦桧自己的赋值：他是怎么想的
+&lt;/h2&gt;&lt;p&gt;先说秦桧。&lt;/p&gt;
+&lt;p&gt;站在秦桧的角度，他一定给自己赋了很好的值。&lt;/p&gt;
+&lt;p&gt;他年轻时也是状元出身，才学过人，写得一手好文章。靖康之变中，他和许多宋朝官员一起被金人掳去，受尽屈辱。后来，他设法逃回南宋，一路做到宰相。在他自己看来，他做的每一件事都有理由：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;“主和”&lt;/strong&gt;：不打仗，就能少死很多人。战争是要死人的，死的是普通百姓，是士兵，是他们的家人。能不打就不打，这是慈悲。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;“稳定”&lt;/strong&gt;：南宋初立，百废待兴，需要休养生息。打不过金国，硬打只会拖垮国家。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;“务实”&lt;/strong&gt;：承认现实，保存实力，等待时机。这不是投降，是策略。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;他甚至可能真的认为，自己是那个“为国负重”的人——背着骂名，做别人不敢做的选择。岳飞在他眼里，可能就是个“不识时务”的愣头青：你非要打，打不过怎么办？把国家拖垮了，谁来负责？&lt;/p&gt;
+&lt;p&gt;所以他构陷岳飞，不是单纯因为坏，而是因为他有自己的“逻辑”。在这个逻辑里，他是对的，岳飞是错的。他是理性的，岳飞是冲动的。他是为国家长远考虑，岳飞只顾一时痛快。&lt;/p&gt;
+&lt;p&gt;这就是秦桧给自己赋的值：&lt;strong&gt;务实、理性、为国谋和&lt;/strong&gt;。他的同党们，自然也认同这个赋值——权力集团内部，需要一个共同的叙事来支撑彼此的行为。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="二秦桧留下的遗产反面教材的意义"&gt;二、秦桧留下的遗产：反面教材的意义
+&lt;/h2&gt;&lt;p&gt;但问题在于：赋值的主体，不只是你自己。&lt;/p&gt;
+&lt;p&gt;秦桧活着的时候，他的赋值看起来很成功。他掌握权力，掌控舆论，甚至让宋高宗配合他演了一出“莫须有”的戏。岳飞死了，他赢了。&lt;/p&gt;
+&lt;p&gt;可他没想到的是，历史不是只在当下运行的。&lt;/p&gt;
+&lt;p&gt;秦桧死后，他留下的“遗产”逐渐显现。这个遗产，不是他想要的，但确实是他留下的：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;他成了反面教材。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在中国历史上，秦桧成了一个符号——“奸臣”的符号。岳飞墓前跪着的那个铁像，几百年来被无数人唾骂、抽打、吐口水。跪了那么多年，跪到铁像都换了好几拨，跪到“白铁无辜铸佞臣”成了千古名句。&lt;/p&gt;
+&lt;p&gt;这是什么？这就是他的人生意义——&lt;strong&gt;他成了“忠”的对照物，成了“义”的反面例证&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;没有秦桧，岳飞的“精忠报国”就少了一层悲剧的张力；没有秦桧，后人谈论“忠奸”时就少了一个最经典的案例。他用自己的“不忠不义”，成就了“忠义”这两个字在历史中的重量。&lt;/p&gt;
+&lt;p&gt;这不是替他开脱，而是说——&lt;strong&gt;负面的意义，也是意义&lt;/strong&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="三宇宙视角正例与反例都是方法库的一部分"&gt;三、宇宙视角：正例与反例，都是方法库的一部分
+&lt;/h2&gt;&lt;p&gt;还记得我们聊过的“根函数”吗？从宇宙的角度看，每一次生命的诞生，都是一次&lt;code&gt;new&lt;/code&gt;操作。这个操作的意义，在于增加“方法库”的丰富性——为后来者提供更多可调用的范本。&lt;/p&gt;
+&lt;p&gt;岳飞&lt;code&gt;new&lt;/code&gt;出了“精忠报国”的正面范式。他用生命诠释了什么叫“明知不可为而为之”，什么叫“名节高于生命”。他的赋值，是主动的、清醒的、与自己的信念完全一致的。&lt;/p&gt;
+&lt;p&gt;秦桧&lt;code&gt;new&lt;/code&gt;出了“奸臣构陷”的反面范式。他用权力和生存，诠释了什么叫“无大义、无廉耻”，什么叫“只要能活着，什么都行”。他的赋值，也是主动的，但他没想到——或者说不在乎——后人会给他另一个赋值。&lt;/p&gt;
+&lt;p&gt;从宇宙的角度看，他们俩都增加了“方法库”的丰富性。后人讨论岳飞的时候，一定会提到秦桧；讨论忠义的时候，一定会提到奸臣。两个实例，互相成就，缺一不可。&lt;/p&gt;
+&lt;p&gt;任何一个系统，都需要正反两面的反馈来维持稳定。没有恶，善就没有参照；没有奸，忠就没有那么耀眼。秦桧的人生意义，就是成为那个“参照系”里的负向坐标。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="四为什么秦桧被赋值和自己想的完全不同"&gt;四、为什么秦桧“被赋值”和自己想的完全不同？
+&lt;/h2&gt;&lt;p&gt;这就涉及到我们之前聊过的另一个问题：&lt;strong&gt;赋值的主体是谁？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;秦桧自己&lt;/strong&gt;：务实、理性、为国谋和&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;他的同党&lt;/strong&gt;：同气相投，互相认可&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;当时的统治者（宋高宗）&lt;/strong&gt;：需要他背锅，需要他承担杀岳飞的骂名&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;后世的民众&lt;/strong&gt;：奸臣、卖国贼——这是最朴素的善恶判断&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;历代的统治阶级&lt;/strong&gt;：为了教化需要，把他塑造成反面典型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这么多赋值同时存在，哪个是“最终意义”？&lt;/p&gt;
+&lt;p&gt;答案是：&lt;strong&gt;看时间的复利&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;短期看，秦桧的权力赋值最强——他能杀岳飞，能掌控舆论，能让当时的文人按他的意思写历史。中期看，统治者的赋值更强——为了稳定统治，需要给历史一个说法，需要确立忠奸的标准。长期看，&lt;strong&gt;民众的赋值最强&lt;/strong&gt;——因为民众不关心权力斗争，只关心最朴素的善恶观。&lt;/p&gt;
+&lt;p&gt;一千年后，秦桧在民间是什么形象？就是那个跪着的铁像。至于他当年怎么解释自己，没人记得了。他的同党是谁，没人关心了。宋高宗心里怎么想，也没人在意了。&lt;/p&gt;
+&lt;p&gt;这就是秦桧的人生意义：&lt;strong&gt;被历史赋值成了“奸臣”&lt;/strong&gt;。他自己怎么想，已经不重要了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="五荀彧的赋值清醒地走向死亡"&gt;五、荀彧的赋值：清醒地走向死亡
+&lt;/h2&gt;&lt;p&gt;再看荀彧。&lt;/p&gt;
+&lt;p&gt;荀彧和秦桧不一样。他的人生赋值，是清醒的、主动的、与自己的信念一致的。&lt;/p&gt;
+&lt;p&gt;荀彧辅佐曹操二十多年，为曹操奠定霸业立下汗马功劳。但他心里有一条线：他帮曹操，是因为曹操能“匡扶汉室”。当曹操露出称帝野心、要加九锡、晋魏公时，荀彧明确反对：“君子爱人以德，不宜如此。”&lt;/p&gt;
+&lt;p&gt;他当然知道反对的后果。曹操是什么人？宁可我负天下人，休教天下人负我。荀彧在官场沉浮几十年，他太清楚了。&lt;/p&gt;
+&lt;p&gt;但他还是反对了。&lt;/p&gt;
+&lt;p&gt;曹操送来空食盒。那是一个隐喻：你已经没有用了；或者说，你自己看着办。&lt;/p&gt;
+&lt;p&gt;荀彧看懂了。他选择了死。&lt;/p&gt;
+&lt;p&gt;他不是不知道活着的好处。以他的功勋，只要低头，照样可以安享富贵。但他选择了不低头。因为他知道，一旦低头，他就不是荀彧了。那个坚守了一辈子的“名节”，就碎了。&lt;/p&gt;
+&lt;p&gt;他死的时候，心里可能是坦然的：我知道我为什么死，我知道后人会怎么看我。&lt;/p&gt;
+&lt;p&gt;后来的历史证明，他没想错。一千八百年后，我们还在谈论荀彧，还在感慨他的风骨。他给自己赋的值——“忠于汉室，名节不亏”——被历史完整地保留了下来。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="六两种意义的对比主动赋值与被覆盖"&gt;六、两种意义的对比：主动赋值与被覆盖
+&lt;/h2&gt;&lt;p&gt;荀彧和秦桧，形成了鲜明的对比：&lt;/p&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;strong&gt;荀彧&lt;/strong&gt;&lt;/th&gt;
+ &lt;th&gt;&lt;strong&gt;秦桧&lt;/strong&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;自己赋值&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;忠于汉室，名节至上&lt;/td&gt;
+ &lt;td&gt;务实理性，为国谋和&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;选择&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;死，守住底线&lt;/td&gt;
+ &lt;td&gt;生，不择手段&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;赋值主体&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;自己清醒选择，历史认同&lt;/td&gt;
+ &lt;td&gt;自己选择，被历史覆盖&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;结果&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;正面典范，被赞颂&lt;/td&gt;
+ &lt;td&gt;反面教材，被唾骂&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;历史角色&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;正例&lt;/td&gt;
+ &lt;td&gt;反例&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;时间复利&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;正向积累&lt;/td&gt;
+ &lt;td&gt;负向固化&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;荀彧死的时候，心里是坦然的。秦桧死的时候，心里在想什么？有没有想过自己会跪在岳飞墓前几百年？有没有想过“白铁无辜铸佞臣”这句话？&lt;/p&gt;
+&lt;p&gt;不知道。但可以想见，那种不安，可能比死还难受。&lt;/p&gt;
+&lt;p&gt;因为最深的惩罚，不是肉体死亡，而是——&lt;strong&gt;你无法控制后人怎么看你&lt;/strong&gt;。你活着的时候可以杀人，可以封口，可以改写历史。但你死了之后呢？历史会用自己的方式，给你一个最终赋值。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="七秦桧的意义到底是什么"&gt;七、秦桧的意义到底是什么？
+&lt;/h2&gt;&lt;p&gt;回到最初的问题：秦桧的生命意义是什么？&lt;/p&gt;
+&lt;p&gt;他的意义是：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;他用自己的“无大义、无廉耻”，为后人提供了一个最清晰的“不该怎么活”的样本。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;他的存在，让“忠义”这两个字更具体了；他的跪像，让每一代路过的人都能看到——原来人活成这样，会被历史这样记住。&lt;/p&gt;
+&lt;p&gt;这不是他想要的意义，但这确实是他留下的意义。&lt;/p&gt;
+&lt;p&gt;从宇宙“方法库”的角度看，他贡献了一个反面函数。后人调用“忠义”的时候，这个反面函数会自动弹出，作为对照。这就是他的价值——虽然是负向的，但依然是价值。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="八回到我们自己你想给自己赋什么值"&gt;八、回到我们自己：你想给自己赋什么值？
+&lt;/h2&gt;&lt;p&gt;聊完荀彧和秦桧，回到我们每个人自己。&lt;/p&gt;
+&lt;p&gt;我们都不是荀彧，也不是秦桧。我们只是普通人，在普通的日子里做着普通的选择。但每一个选择，都在给自己的人生变量赋值。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;你今天帮了别人一把，赋了一个“善良”&lt;/li&gt;
+&lt;li&gt;你今天说了谎话，赋了一个“虚伪”&lt;/li&gt;
+&lt;li&gt;你今天坚持了原则，赋了一个“正直”&lt;/li&gt;
+&lt;li&gt;你今天放弃了底线，赋了一个“苟且”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这些赋值会累积，最终形成你在世界上的“哈希值”——别人一提起你，脑海里出现的那几个关键词。&lt;/p&gt;
+&lt;p&gt;更重要的是，这些赋值会决定你&lt;strong&gt;自己怎么看待自己&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;夜深人静的时候，你能不能坦然面对镜子里的那个人？你这一生，到底想活成什么样子？&lt;/p&gt;
+&lt;p&gt;你可以学岳飞，求大义、求名节，哪怕死也认了。
+你也可以学秦桧，求生存、求务实，不在乎后人怎么说。
+这都是选择。&lt;/p&gt;
+&lt;p&gt;区别只在于：&lt;strong&gt;你选的这个值，最后能不能真的写进宇宙的方法库里，成为后来者可以调用的那个函数。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;岳飞被调用了九百年，秦桧也被调用了九百年——只不过一个是正例，一个是反例。&lt;/p&gt;
+&lt;p&gt;都是意义，都是&lt;code&gt;new&lt;/code&gt;。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="结语"&gt;结语
+&lt;/h2&gt;&lt;p&gt;荀彧和秦桧，站在历史的两端，遥遥相望。&lt;/p&gt;
+&lt;p&gt;一个用死守住了自己的赋值，一个用生换来了被覆盖的赋值。一个被后人赞颂，一个被后人唾骂。但他们都在宇宙的方法库里，留下了自己的那一行代码。&lt;/p&gt;
+&lt;p&gt;这一行代码，是正还是反，由不得他们自己完全决定。但至少，荀彧可以坦然地说：我写了我想写的。秦桧呢？他可能从来没想过，后人会这样改写他的代码。&lt;/p&gt;
+&lt;p&gt;而我们，还在写着。&lt;/p&gt;
+&lt;p&gt;你的代码，正在一行一行地写下去。你想写什么？你想留下什么？你准备好接受时间复利的检验了吗？&lt;/p&gt;
+&lt;hr&gt;</description></item><item><title>浮世行舟者</title><link>https://vanvj00002.github.io/monkvan/posts/meaning-variable/</link><pubDate>Sun, 12 Oct 2025 10:00:00 +0800</pubDate><guid>https://vanvj00002.github.io/monkvan/posts/meaning-variable/</guid><description>&lt;h1 id="浮世行舟者论我为何是自己人生意义的唯一变量"&gt;浮世行舟者：论我为何是自己人生意义的唯一变量
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;关键词&lt;/strong&gt;：人生意义、变量、赋值、自主性、编程隐喻、存在主义、自我定义、无常、觉醒、浮世行舟&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="前言"&gt;前言
+&lt;/h2&gt;&lt;p&gt;编程世界的最基本单位是数值：常量如同磐石般亘古不移，“0”与“1”构成了数字宇宙的纯粹基石；变量却如同水流般灵活善变——它的数值可以随时被赋给、被重写、被重新定义。当我们将人生意义置于此喻的光照下审视，其本质已昭然若揭：人生的意义绝非不可撼动、一生不变的常量，而是你我手中那个待赋值的、时刻可被重新编码的变量符号。本文将从意义的本空、外界的赋值植入、觉醒后的自我书写、变量的可重定义性、痛苦的本质以及自主航行六个维度，为你揭示为何你才是自己人生意义的唯一变量。&lt;/p&gt;
+&lt;h2 id="一意义本空原始镜像中的深邃虚空"&gt;一、意义本空：原始镜像中的深邃虚空
+&lt;/h2&gt;&lt;p&gt;在灵魂的原始镜像中，并无预设的指令规定我们因何而行走。恰如系统启动后的原始内存，意义变量本身只是一个未赋值的存在——它不指向任何目标，不携带任何价值，只是一片纯净的、等待被书写的空白。这不是缺陷，而是自由的前提。如果人生来就被写死了意义，就像硬件焊死的计算器，只能执行固定的运算，永远无法成为图灵完备的计算机。&lt;/p&gt;
+&lt;p&gt;从存在主义哲学来看，萨特提出“存在先于本质”——人首先像一张白纸被抛入世界，然后通过自己的选择和行动，逐渐塑造自己的本质。这与编程变量的隐喻高度契合：变量名（“我”）先于值（“我的意义”）存在。我们不是带着使命出生的，我们是在出生后为自己创造使命。这份“空”让许多人感到恐惧——没有预设的意义，意味着没有现成的答案，意味着必须自己寻找、自己决定、自己负责。但恰恰是这份恐惧，证明了我们是自由的。一块石头不会因为“不知道自己要成为什么”而焦虑，只有会自我提问的存在才会焦虑。焦虑不是bug，而是feature——它是自由意识的副作用。&lt;/p&gt;
+&lt;p&gt;东方智慧同样指向意义的“本空”。佛教讲“诸法无我”，一切现象都没有固定不变的自性。意义也是如此：没有哪一种意义是天生就“属于”你的，也没有哪一种意义一旦确立就永恒不变。空不是虚无，而是可能性。一张白纸的空，让画家可以画出任何图案；一个未赋值的变量，让程序员可以根据需要存入任何数据。如果我们生来就被写满了“必须成为什么”“必须追求什么”，那才是真正的牢笼。&lt;/p&gt;
+&lt;p&gt;然而，这种“空”也有它的代价。一个未赋值的变量在程序中是无法使用的——它不指向任何东西，调用它只会返回错误。同样，一个从未思考过意义的人，会在某个时刻遭遇“运行时错误”：崩溃、空虚、失去动力。这个错误不是坏事，它是系统在提醒你：该给这个变量赋值了。&lt;/p&gt;
+&lt;h2 id="二外界注入被程序指令填满的童年"&gt;二、外界注入：被程序指令填满的童年
+&lt;/h2&gt;&lt;p&gt;人之初降，尚未能掌握赋值权柄。家庭、文化、社会教义如同涌入的程序指令，将价值编码悄悄植入稚嫩灵魂的变量名之下，悄无声息地开始运转。一个三岁的孩子不会自己问“我人生的意义是什么”，但他会从父母的眼神、表扬与惩罚中，逐渐学会“听话就是好的”“考第一名就是成功的”。&lt;/p&gt;
+&lt;p&gt;这些早期植入的代码，构成了我们的“默认程序”。它们包括：要上好大学、要找稳定工作、要结婚生子、要买房买车、要比邻居过得好……这些目标本身没有错，问题在于：它们被植入时，我们没有选择权。我们就像一个被安装了盗版操作系统的电脑，以为自己的每一次点击都是自由的，其实所有路径都被预设了。年少被注入的规则与教条，无形中引导我们追逐社会推崇却非发自内心的伪目标，如同程序在预写代码的驱使下单调循环，看似按部就班实则悬荡在无灵魂的虚空中。&lt;/p&gt;
+&lt;p&gt;为什么说这些目标是“伪目标”？因为它们的价值来源不是内心，而是外部认同。一个追求高薪工作的人，可能并不热爱那份工作，只是享受别人听说他年薪百万时的羡慕眼神。一个拼命维持婚姻的人，可能早已没有感情，只是害怕离婚带来的社会评价。当外部的认同消失——比如退休后不再有人汇报、离婚后不再有人评价——这些目标就失去了支撑，人就会陷入“我这些年到底在干什么”的虚空。这就是为什么很多人在实现“人生标配”后反而抑郁：他们完成了别人写的代码，却发现那根本不是自己想要的程序。&lt;/p&gt;
+&lt;p&gt;文化人类学家欧内斯特·贝克尔在《拒斥死亡》中提出，人类通过“英雄系统”来获得意义感——我们把自己投身于某种比个体更大的事业（国家、宗教、财富、名声），从而克服对死亡的恐惧。但这些英雄系统大多是社会建构的，它们提供的意义是二手的意义。不是说你不能接受社会提供的意义，而是你要知道：那是借来的衣服，不一定合身。真正合身的衣服，需要自己裁剪。&lt;/p&gt;
+&lt;h2 id="三觉醒赋值突破原厂设定的伟大跃迁"&gt;三、觉醒赋值：突破“原厂设定”的伟大跃迁
+&lt;/h2&gt;&lt;p&gt;幸而灵魂拥有突破命运“原厂设定”的伟大觉醒。那个原初无值的意义变量，其所有权真正归属每一个独立的“我”。青年踏出熟稔旧圈闯入未知世界时，犹如代码行终于跨越被规定的作用域边界——我们开始反思并解构从前被强加的意义序列。“我要什么？”此问一旦响起，便如编程语言中那关键的赋值符号“=”，指向生命意义的重新自我书写。&lt;/p&gt;
+&lt;p&gt;这种觉醒往往发生在“断点”处——人生遭遇重大的挫折、困惑或选择时，默认程序崩溃了，我们被迫进入调试模式。一个大学生在毕业后没有找到“体面”工作，开始质疑“好工作”的定义；一个母亲在孩子离家后，发现自己除了“妈妈”这个角色什么都没有，开始追问“我是谁”；一个中年高管在被裁员后，第一次思考“除了职位，我的价值在哪里”。这些断点让人痛苦，但也正是它们提供了重新赋值的契机。&lt;/p&gt;
+&lt;p&gt;若旧梦早非心之所向，变量值即被大胆重置、重赋新生。这种重置不是一次性的，而是一生的功课。心理学家荣格说：“人只有在第二次出生后，才真正开始活着。”第一次出生是肉体的出生，第二次出生是精神的觉醒——意识到自己可以成为自己的作者。此种心灵自觉赋予人生意义以真正的生命力，驱离了外界价值植入的苍白拟象。&lt;/p&gt;
+&lt;p&gt;赋值的过程可以分为三步：第一步，解构——勇敢地质疑那些被植入的“应该”，问自己“这是谁的标准？”第二步，探索——尝试不同的事情，注意哪些让你感到充实、哪些让你感到消耗。不是用脑子想，而是用身体去体验。第三步，确认——选择一个（或几个）方向，然后行动。记住：赋值不是想出来的，是活出来的。你不可能坐在家里想“我的人生意义是什么”然后得到答案，你必须在做事的过程中，让意义自己浮现。&lt;/p&gt;
+&lt;h2 id="四无限重写每一次危机都是重构的契机"&gt;四、无限重写：每一次危机都是重构的契机
+&lt;/h2&gt;&lt;p&gt;人生意义作为变量的精髓在于其无限可重定义之本性。每一次颠覆性的遭遇——顿悟、危机乃至死亡擦肩而过——都如系统遭遇严重宕机后的全面重启，为意义变量提供了彻底的重置与重构可能。这不是bug，而是设计特性。如果人生意义是常量，那么一次失败就意味着一生失败；正因为它是变量，所以任何时候都可以重新赋值。&lt;/p&gt;
+&lt;p&gt;那个曾坚信“人生即享乐”的人，在灾祸后或将发现奉献之光方慰灵魂之渴；那位为功利奔劳半世者，也会在某个刹那了悟——唯有真纯热爱的燃烧才具意义温度。每一次变量值更新，皆是认知疆界的拓展与灵魂图谱的刷新。托尔斯泰在中年的精神危机中，从贵族文学巨匠转向了简朴的农民生活；尼采在长期的漂泊和病痛中，从古典语文学家变成了“锤子哲学家”。他们不是放弃了原来的意义，而是超越了原来的意义。&lt;/p&gt;
+&lt;p&gt;这里有一个容易被误解的点：变量的重写不是随意地、轻率地反复修改。程序中的变量如果被随意赋值，会导致逻辑混乱。同样，人生意义如果三天两头更换，也会让人失去方向。重写的意义在于：当你经过深刻的反思和体验，发现旧的意义已经不再适合现在的你，你有权利和责任去更新它。这不是反复无常，而是成长。20岁时认为“改变世界”是意义，30岁时认为“照顾好家人”是意义，50岁时认为“内心的平静”是意义——每一次转变都是认知的深化。&lt;/p&gt;
+&lt;p&gt;重要的是，重写不是否定过去。你曾经认为重要的东西，在当时的情境下确实是重要的。你不是因为愚蠢才那样选择，而是因为当时的你只有那么多信息。当你获得了新的信息、新的体验，你的意义变量当然应该更新。这就像软件升级：不是旧版本一无是处，而是新版本修复了bug、增加了功能。请对过去的自己保持慈悲。&lt;/p&gt;
+&lt;h2 id="五悲喜自造痛感的根源与解药"&gt;五、悲喜自造：痛感的根源与解药
+&lt;/h2&gt;&lt;p&gt;赋予我们悲伤之泪、迷惘之痛的，同样是意义之手施加的魔法。财富、地位、情爱——当你将其定义为终极价值的代码，那一旦崩毁或丢失，自然带来灵魂世界的地动山摇。一个把全部自我认同建立在“我是某公司高管”上的人，被裁员后就会觉得“我一文不值”；一个把生命意义寄托在“孩子成功”上的母亲，孩子叛逆时就会觉得“我彻底失败”。痛，不是因为这些事物本身失去了，而是因为你赋予了它们“必须拥有”的意义。&lt;/p&gt;
+&lt;p&gt;但倘若你清晰知道自己是意义的书写者，便知痛感的根源不过是变量值“=”之后定义的不复存在。你定义“它”重要，于是它重要；你定义了它值得眼泪的温度，心便有了刺破的温度——而这定义权本身，从未曾随浮华的崩落而消失一分一毫。换句话说：你可以定义新的意义。失去工作后，你可以把意义重新定义为“探索新可能”；失去爱情后，你可以把意义重新定义为“学会爱自己”。这不是阿Q精神，而是编程思维：当旧值失效，就赋一个新值。&lt;/p&gt;
+&lt;p&gt;斯多葛学派哲学家爱比克泰德说：“困扰人的不是事物本身，而是人们对事物的判断。”一个陶罐碎了，你不会崩溃，因为你知道它只是一个陶罐；但如果这个陶罐是你祖母的遗物，你赋予它“不可替代的纪念”的意义，它的破碎就会让你痛苦。痛苦不是陶罐给的，是你给的意义给的。好消息是：既然你能赋予意义，你也能重新赋予意义。那个陶罐碎了，但祖母的爱还在，你可以把意义转移到“继承她的善良”上。&lt;/p&gt;
+&lt;p&gt;这并非否认悲伤的合理性。失去重要的人和事，当然应该悲伤。但关键是：悲伤之后，你是选择永远被困在那个破碎的赋值里，还是选择重新赋值？变量不是不允许有旧值，而是允许被更新。请允许自己悲伤，但不要让自己相信“我的意义也一起破碎了”。你的意义变量名还在，赋值权还在，你只是需要输入一个新的值。&lt;/p&gt;
+&lt;h2 id="六自主航行在无常之海中升起风帆"&gt;六、自主航行：在无常之海中升起风帆
+&lt;/h2&gt;&lt;p&gt;人间并非“值不值得”那般简单。世界的价值与灰度完全因我的赋值选择而存在。那些“不值得”的喟叹，如同错误代码引出的报错提示，其深意却是对现有变量值失效的哀悼。但生命的代码行永续不止，变量值失效绝非终点，而是重生的起笔。你完全可以修改判断逻辑，抹去失败之痛的标签，为未来输入新的目标函数。变量不朽的特权恰恰在此——过去的赋值不能成为终极裁判，新的赋值永远在代码行末端等待被写入。人间因赋值的流动才显蓬勃不息。&lt;/p&gt;
+&lt;p&gt;人生是场在自定意义之海上的孤勇航行——意义本空，价值由我，悲喜自造，唯变化恒远。没有人能替你赋值。父母不能，伴侣不能，社会不能。他们可以影响你、建议你、甚至强迫你，但最终那个“=”的执行者，只能是你自己。这既是责任，也是权利。很多人害怕这份责任，宁可让别人替他决定，然后抱怨“这不是我要的生活”。但抱怨改变不了赋值权归属的事实。你是船长，你可以把舵交给别人，但船沉的时候，淹死的还是你。&lt;/p&gt;
+&lt;p&gt;请明白，我们灵魂的变量名从不曾隶属于永恒真理或社会脚本的绝对常量，它是只属于你的那个可被反复修改的名字。请以清醒的觉知承担起每一次关键赋值的神圣责任，亦无惧因流变而擦去昨日笔迹的勇气。在意义变量无穷可能的更迭中，心灵方能在无常之海中，升起一叶名为“自主”的风帆。这叶舟或许微渺，却因价值始终紧握在我掌中，而从此有了真正的方向。&lt;/p&gt;
+&lt;p&gt;如何开始你的赋值之旅？三个建议：第一，每天花五分钟问自己“今天我做的哪件事让我感到充实？”第二，当你感到痛苦时，不要问“为什么是我”，而要问“我把意义赋值给了什么？我可以重新赋值给什么？”第三，勇敢地尝试新事物，让生活提供不同的数据，你的变量会根据这些数据自动优化。赋值不是一次完成的，而是一生的迭代。&lt;/p&gt;
+&lt;h2 id="结语"&gt;结语
+&lt;/h2&gt;&lt;p&gt;在浮世行舟的旅程中，风浪无常，航道多变。但只要你记得：你手中的不是常量，而是变量；你胸中的不是被植入的程序，而是自主的代码；你脚下的不是别人铺好的路，而是自己赋值的征程——你就永远不会迷失。因为真正的方向，不是来自外部的坐标，而是来自你内心那个永远可以重新赋值的变量。&lt;/p&gt;
+&lt;p&gt;（全文约3060字）&lt;/p&gt;</description></item></channel></rss>
