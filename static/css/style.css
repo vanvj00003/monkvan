@@ -46,14 +46,15 @@ p {
 }
 
 pre {
-	color: #ffffba;
+	color: #333333;
 	line-height: normal;
 	overflow: auto;
 	padding: 1.0em;
+	background-color: #f5f5f5;
 }
 
 blockquote {
-	background-color: #272822;
+	background-color: #f5f5f5;
 	font-style: italic;
 	padding: 1.0em;
 }
@@ -127,6 +128,7 @@ article:last-child header p,
 .highlight pre {
 	margin-bottom: 0em;
 	margin-top: 0em;
+	background-color: #f5f5f5;
 }
 
 .link {
