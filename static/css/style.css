@@ -174,3 +174,26 @@ article:last-child header p,
 	overflow-y: hidden;
 	padding: 0;
 }
+
+.highlight span {
+	color: #333 !important;
+	background: transparent !important;
+}
+
+.highlight {
+	background-color: #f5f5f5 !important;
+}
+
+.highlight .kr { color: #0000ff; }
+.highlight .nx { color: #2c5d8a; }
+.highlight .p { color: #555555; }
+.highlight .kc { color: #0000ff; }
+.highlight .c1 { color: #008000; }
+.highlight .sb { color: #a31515; }
+.highlight .si { color: #a31515; }
+.highlight .s1 { color: #a31515; }
+.highlight .mi { color: #098658; }
+.highlight .o { color: #555555; }
+.highlight .k { color: #0000ff; }
+.highlight .kd { color: #0000ff; }
+.highlight .nf { color: #795e26; }
